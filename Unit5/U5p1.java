@@ -2,7 +2,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.Statement;
 import java.util.Scanner;
-class u5p1
+class U5p1
 { 
     public static void main(String args[])
     {
